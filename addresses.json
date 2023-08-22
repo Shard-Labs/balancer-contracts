@@ -1,0 +1,18 @@
+{
+    "mainnet": {
+        "authorizer": "0x8D4A63E8f549702Dc3D61F4c4CE78602992d8895",
+        "vault": "0x408D42AF20e8B544588d2c32E8290b373D2dA5d2",
+        "protocolFeePercentagesProvider": "0x0fD31751EdA45C422561913B1db9e4C427880545",
+        "WeightedPoolFactory": "0x36464eD919F8261Cf053192d1812657A3E818D8C",
+        "stablePoolsFactory": "0x459B2C0bA19a9bC882178DA5f3E6D7d6891A774C",
+        "recoveryModeHelper": "0xdF5585699A858D1daaFc153B9ADF28B59305150b"
+    },
+    "testnet": {
+        "authorizer": "0x8D4A63E8f549702Dc3D61F4c4CE78602992d8895",
+        "vault": "0x408D42AF20e8B544588d2c32E8290b373D2dA5d2",
+        "protocolFeePercentagesProvider": "0x0fD31751EdA45C422561913B1db9e4C427880545",
+        "WeightedPoolFactory": "0x4FfF038c0A59Fbd0c4A6447DEed39E061089A638",
+        "stablePoolsFactory": "0x36464eD919F8261Cf053192d1812657A3E818D8C",
+        "recoveryModeHelper": "0xdF5585699A858D1daaFc153B9ADF28B59305150b"
+    }
+}
